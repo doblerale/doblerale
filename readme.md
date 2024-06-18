@@ -4,4 +4,3 @@ Hello! My name is Alexandre J. Dobler, i'm a student from Brazil!
 - 📫 How to reach me: doblerenge@hotmail.com
 - ⚡ Fun fact: Coffee lover... cliche
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidoblerale=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
